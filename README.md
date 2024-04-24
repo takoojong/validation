@@ -1,2 +1,2 @@
 %d
-validation format
+validation synthax
